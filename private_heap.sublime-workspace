@@ -1,0 +1,365 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"insert"
+			],
+			[
+				"po",
+				"pool_allowed_size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.c",
+			"settings":
+			{
+				"buffer_size": 1073,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mallok.c",
+			"settings":
+			{
+				"buffer_size": 779,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mallok.h",
+			"settings":
+			{
+				"buffer_size": 321,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "LinkedList.c",
+			"settings":
+			{
+				"buffer_size": 1057,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "LinkedList.h",
+			"settings":
+			{
+				"buffer_size": 471,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/aterikov/Downloads/Terikov_Alexander-Assign_6-Report.txt",
+		"/Users/aterikov/Desktop/143/workspace_CSCI143/Maps/src/examples/HashMapPractice.java",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/xcode projects/TCSS333 Assignment 5/TCSS333 Assignment 5/hw5time.txt",
+		"/Users/aterikov/Dropbox/EDU/CSCI 151 C++ I/examples teacher/Lecture 3.1 and 3.2 files/Lecture 3.1 and 3.2 files/3_struct.cpp",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/dev practice/commandLineArgs2.c",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/dev practice/commandLineArgs1.c",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/dev practice/fileSize.c",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/teacher examples/struct/dynAllocPrograms/sortStringDone.c",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/Assignment 5 -/hw5input.txt",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/Assignment 3 - Most Popular Names/Terikov_Alexander-Assign_3-Report.txt",
+		"/Users/aterikov/Desktop/tcss333 midterm notes.txt",
+		"/Users/aterikov/Desktop/google presentation notes.txt",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/dev practice/bmpcopy.c",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/dev practice/unsign.c",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/dev practice/bmpflip2.c",
+		"/Users/aterikov/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/xcode projects/binary dates/binary dates/binarydata.bin",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/xcode projects/TCSS333 Assignment 3/TCSS333 Assignment 3/sample.txt",
+		"/Users/aterikov/Desktop/csv_example.csv",
+		"/Users/aterikov/Desktop/google presentation notes",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/dev practice/endianNess.c",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/dev practice/SumLines.c",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/dev practice/nc.c",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/TCSS 333 notes",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/dev practice/hw1.c",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/dev practice/parseString.c",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/dev practice/simpleio.c",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/dev practice/file.out",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/dev practice/scanfPractise.c",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/dev practice/charArray.c",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/dev practice/numConvert.c",
+		"/Users/aterikov/Dropbox/UW/TCSS 333 C for System Programming/dev practice/of.c",
+		"/Users/aterikov/xxx",
+		"/Users/aterikov/Development/CSCI_143 JAVA II/hw3-rationals/src/rationals/Rational.java",
+		"/Users/aterikov/Development/CSCI_143 JAVA II/hw3-rationals/src/rationals/RationalTest.java"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"margue"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.c",
+					"settings":
+					{
+						"buffer_size": 1073,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								471,
+								471
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "mallok.c",
+					"settings":
+					{
+						"buffer_size": 779,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								169,
+								186
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "mallok.h",
+					"settings":
+					{
+						"buffer_size": 321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "LinkedList.c",
+					"settings":
+					{
+						"buffer_size": 1057,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "LinkedList.h",
+					"settings":
+					{
+						"buffer_size": 471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								471,
+								471
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 207.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
